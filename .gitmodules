@@ -1,0 +1,9 @@
+[submodule "Alamofire"]
+	path = Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
+[submodule "JSQMessagesViewController"]
+	path = JSQMessagesViewController
+	url = https://github.com/jessesquires/JSQMessagesViewController.git
+[submodule "JSQSystemSoundPlayer"]
+	path = JSQSystemSoundPlayer
+	url = https://github.com/jessesquires/JSQSystemSoundPlayer.git
